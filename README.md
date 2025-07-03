@@ -1,2 +1,2 @@
 # xpmp
-A Python-powered CLI toolkit for generating realistic mock data — users, passwords, colors, text, and more. Perfect for prototyping, testing APIs, or populating UIs with sample content.
+A creativity companion in your terminal. Instantly spin up random haikus, quirky startup ideas, or fake characters for your next novel or side project.
