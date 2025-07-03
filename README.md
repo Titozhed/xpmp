@@ -1,4 +1,3 @@
 # xpmp
-A command-line tool that creates randomized content for secure, private, or chaotic use — from hacker-safe passwords to anonymized fake profiles. Keep your testing fresh and unpredictable.
-
+Chaos in the command line. Type a command, receive cursed startup ideas, oddly specific usernames, or emotional poetry. No context. Just vibes.
 
