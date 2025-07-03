@@ -1,2 +1,4 @@
 # xpmp
-A creativity companion in your terminal. Instantly spin up random haikus, quirky startup ideas, or fake characters for your next novel or side project.
+A command-line tool that creates randomized content for secure, private, or chaotic use — from hacker-safe passwords to anonymized fake profiles. Keep your testing fresh and unpredictable.
+
+
